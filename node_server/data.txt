@@ -1,0 +1,13 @@
+shiftLove 4 6 4
+workerFight 1 2
+shiftProblem 4 7 2
+workerFight 4 6
+shiftProblem 2 5 4
+shiftLove 5 5 4
+workerFight 3 2
+workerFight 4 3
+shiftProblem 2 3 3
+shiftLove 2 5 3
+workerFight 2 3
+shiftLove 2 3 5
+workerFight 17 78
